@@ -95,7 +95,7 @@
             <div class="row mb-4">
               <div class="col">
                 <div class="form-outline">
-                  <label class="form-label" for="productPrice">Số lượng</label>
+                  <label class="form-label" for="productPrice">Giá</label>
                   <input
                     type="text"
                     id="productPrice"
